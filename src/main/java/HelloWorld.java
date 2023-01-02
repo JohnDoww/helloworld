@@ -1,9 +1,7 @@
 public class HelloWorld {
     public static void main(String[]args) {
         System.out.println("Hello World!");
-        System.out.println("Yeah, I did it");
-        System.out.println("...or not");
-
+        System.out.println("Yeah, yeah");
     }
 
 }
